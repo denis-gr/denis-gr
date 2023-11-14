@@ -10,11 +10,11 @@
 - ⚡ Fun fact: ... -->
 
 
-[About me as Python developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/python.md)
-
 [About me as Cpp developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/cpp.md)
 
 [About me as Front-End developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/front-end.md)
+
+[About me as Python developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/python.md)
 
 
 

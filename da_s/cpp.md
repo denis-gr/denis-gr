@@ -28,9 +28,20 @@
         <th>Description</th>
 </tr><tr>
         <td>1</td>
-        <td><a href="https://api.github.com/repos/denis-gr/cpp-course-work-student-administration-system">cpp-course-work-student-administration-system</a></td>
+        <td><a href="https://github.com/denis-gr/cpp-course-work-student-administration-system">cpp-course-work-student-administration-system</a></td>
         <td></td>
         <td>None</td>
     </tr> 
     
 </table>
+
+<h3 align="left">Navigation:</h3>
+
+[Main page](https://github.com/denis-gr/denis-gr/blob/main/README.md)
+
+[About me as C developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/c.md)
+
+[About me as P developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/p.md)
+
+[About me as P developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/p.md)
+

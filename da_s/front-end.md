@@ -28,9 +28,32 @@
         <th>Description</th>
 </tr><tr>
         <td>1</td>
-        <td><a href="https://api.github.com/repos/denis-gr/MyRandom">MyRandom</a></td>
+        <td><a href="https://github.com/denis-gr/MyRandom">MyRandom</a></td>
         <td></td>
         <td>None</td>
     </tr> 
     
 </table>
+
+<h3 align="left">Navigation:</h3>
+
+[Main page](https://github.com/denis-gr/denis-gr/blob/main/README.md)
+
+[About me as F developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/f.md)
+
+[About me as R developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/r.md)
+
+[About me as O developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/o.md)
+
+[About me as N developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/n.md)
+
+[About me as T developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/t.md)
+
+[About me as - developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/-.md)
+
+[About me as E developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/e.md)
+
+[About me as N developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/n.md)
+
+[About me as D developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/d.md)
+

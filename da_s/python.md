@@ -28,9 +28,26 @@
         <th>Description</th>
 </tr><tr>
         <td>1</td>
-        <td><a href="https://api.github.com/repos/denis-gr/Bot">Bot</a></td>
+        <td><a href="https://github.com/denis-gr/Bot">Bot</a></td>
         <td></td>
         <td>None</td>
     </tr> 
     
 </table>
+
+<h3 align="left">Navigation:</h3>
+
+[Main page](https://github.com/denis-gr/denis-gr/blob/main/README.md)
+
+[About me as P developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/p.md)
+
+[About me as Y developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/y.md)
+
+[About me as T developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/t.md)
+
+[About me as H developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/h.md)
+
+[About me as O developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/o.md)
+
+[About me as N developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/n.md)
+
