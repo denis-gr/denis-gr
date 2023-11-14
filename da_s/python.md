@@ -39,15 +39,6 @@
 
 [Main page](https://github.com/denis-gr/denis-gr/blob/main/README.md)
 
-[About me as P developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/p.md)
+[About me as Cpp developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/cpp.md)
 
-[About me as Y developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/y.md)
-
-[About me as T developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/t.md)
-
-[About me as H developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/h.md)
-
-[About me as O developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/o.md)
-
-[About me as N developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/n.md)
-
+[About me as Front-End developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/front-end.md)

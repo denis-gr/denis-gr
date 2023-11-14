@@ -39,9 +39,6 @@
 
 [Main page](https://github.com/denis-gr/denis-gr/blob/main/README.md)
 
-[About me as C developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/c.md)
+[About me as Python developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/python.md)
 
-[About me as P developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/p.md)
-
-[About me as P developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/p.md)
-
+[About me as Front-End developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/front-end.md)
