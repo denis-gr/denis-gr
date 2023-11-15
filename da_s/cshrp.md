@@ -1,4 +1,4 @@
-<h3 align="center">Cpp developer</h3>
+<h3 align="center">Cshrp developer</h3>
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,9 +18,9 @@
         <th>Purpose</th>
 </tr><tr>
         <td>1</td>
-        <td><a href="" target="_blank" rel="noreferrer"> <img src="" alt="cpp" width="40" height="40"/></td>
-        <td><a href="">cpp</a></td>
-        <td>cpp</td>
+        <td><a href="" target="_blank" rel="noreferrer"> <img src="" alt="cshrp" width="40" height="40"/></td>
+        <td><a href="">cshrp</a></td>
+        <td>cshrp</td>
         <td></td>
     </tr> 
     
@@ -35,9 +35,9 @@
         <th>Description</th>
 </tr><tr>
         <td>1</td>
-        <td><a href="https://github.com/denis-gr/cpp-course-work-student-administration-system">cpp-course-work-student-administration-system</a></td>
-        <td>cpp</td>
-        <td>Coursework on creating a student administration system (console program)</td>
+        <td><a href="https://github.com/denis-gr/GUAPSchedulerParser">GUAPSchedulerParser</a></td>
+        <td>cshrp</td>
+        <td>Parser of GUAP Scheduler</td>
     </tr> 
     
 </table>
@@ -50,8 +50,8 @@
 
 [About me as Python developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/python.md)
 
+[About me as Cpp developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/cpp.md)
+
 [About me as Data-Science developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/data-science.md)
 
 [About me as Front-End developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/front-end.md)
-
-[About me as Cshrp developer](https://github.com/denis-gr/denis-gr/blob/main/da_s/cshrp.md)
